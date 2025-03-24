@@ -12,3 +12,7 @@ We utilize a labeled dataset from Roboflow and train each YOLO version using Goo
 - [YOLOv10 Notebook](#)  
 - [YOLOv11 Notebook](https://colab.research.google.com/drive/1bvMhtfhoNNjnVf7Wc0AYLfHU2bYcWrsN?usp=sharing&fbclid=IwY2xjawJOMchleHRuA2FlbQIxMAABHfV_eoR0brHl39S5OXsSgdjV4czEktdDS8fLMejXBnkiX2kj33e-disFDQ_aem_e81umCtnf4D_K4n8fjVg0g)  
 - [YOLOv12 Notebook](https://colab.research.google.com/drive/13D94_AxaKzdCIznV8rAWBzi6dsDSZwYy?usp=sharing&fbclid=IwY2xjawJOMdRleHRuA2FlbQIxMAABHZkmkCJxyrUjaaIQwaXl-1-s3WBMX2qp9yMTcE6NrbgHOOMdT8dOjbR8iA_aem_sOn3hTDL7-gwg2_1lZoU2w)  
+
+## Model Deployment  
+To test and deploy the trained YOLO models, use the following Colab notebook:  
+- [Deployment Notebook](https://colab.research.google.com/drive/1DRRrJReArcmDl6uoO91QKDsv_KPkqcum?usp=sharing)  
